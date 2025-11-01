@@ -16,22 +16,4 @@ Model Building: Trained a regression model using Scikit-learn.
 Integration: Exposed predictions through a Flask API.
 Deployment: Linked backend with a web interface for real-time predictions.
 
-📁 Project Structure
-BHP/
-│
-├── client/
-│   ├── app.html
-│   ├── app.css
-│   └── app.js
-│
-├── model/
-│   ├── bengalorePropPricPred.ipynb
-│   ├── banglore_home_prices_model.pickle
-│   └── columns.json
-│
-├── server/
-    ├── server.py
-    ├── util.py
-    └── artifacts/
-        ├── banglore_home_prices_model.pickle
-        └── columns.json
+
